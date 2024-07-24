@@ -1,0 +1,15 @@
+.app {
+  background-color: whitesmoke;
+  color: black;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+}
+
+.error {
+  color: red;
+  text-align: center;
+  margin-top: 15px;
+}
